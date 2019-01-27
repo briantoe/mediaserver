@@ -3,6 +3,13 @@ const url = require('url');
 require('dotenv').config();
 const app = express();
 
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Methods', 'GET, PUT, POST, DELETE, PATCH, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  next();
+});
+
 app.use('/videos', express.static('videos'));
 app.use('/thumbnails', express.static('thumbnails'));
 
