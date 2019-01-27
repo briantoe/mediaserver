@@ -22,11 +22,67 @@ const movies = [
     thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
   },
   {
+    id: 0,
+    title: 'Big Buck Bunny',
+    desc: 'A bunny learns to live in nature.',
+    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+  },
+  {
     id: 1,
-    title: 'Sintel',
-    desc: 'A lady and her pet dragon.',
-    file: url.resolve(process.env.URL, '/movies/sintel.mp4'),
-    thumbnail: url.resolve(process.env.URL, '/thumbnails/sintel.jpg')
+    title: 'Big Buck Bunny',
+    desc: 'A bunny learns to live in nature.',
+    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+  },
+  {
+    id: 2,
+    title: 'Big Buck Bunny',
+    desc: 'A bunny learns to live in nature.',
+    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+  },
+  {
+    id: 3,
+    title: 'Big Buck Bunny',
+    desc: 'A bunny learns to live in nature.',
+    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+  },
+  {
+    id: 4,
+    title: 'Big Buck Bunny',
+    desc: 'A bunny learns to live in nature.',
+    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+  },
+  {
+    id: 5,
+    title: 'Big Buck Bunny',
+    desc: 'A bunny learns to live in nature.',
+    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+  },
+  {
+    id: 6,
+    title: 'Big Buck Bunny',
+    desc: 'A bunny learns to live in nature.',
+    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+  },
+  {
+    id: 7,
+    title: 'Big Buck Bunny',
+    desc: 'A bunny learns to live in nature.',
+    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+  },
+  {
+    id: 8,
+    title: 'Big Buck Bunny',
+    desc: 'A bunny learns to live in nature.',
+    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
   }
 ];
 
