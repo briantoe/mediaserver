@@ -22,13 +22,6 @@ const movies = [
     thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
   },
   {
-    id: 0,
-    title: 'Big Buck Bunny',
-    desc: 'A bunny learns to live in nature.',
-    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
-    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
-  },
-  {
     id: 1,
     title: 'Big Buck Bunny',
     desc: 'A bunny learns to live in nature.',
