@@ -1,0 +1,23 @@
+{
+  "name": "mediaserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamuhack19/mediaserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamuhack19/mediaserver/issues"
+  },
+  "homepage": "https://github.com/tamuhack19/mediaserver#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
