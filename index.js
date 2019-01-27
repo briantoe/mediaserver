@@ -4,7 +4,7 @@ require('dotenv').config();
 const app = express();
 
 app.use('/videos', express.static('videos'));
-app.use('/thumbnails', express.static('thumbnails'))
+app.use('/thumbnails', express.static('thumbnails'));
 
 const movies = [
   {
