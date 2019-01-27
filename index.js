@@ -23,10 +23,10 @@ const movies = [
   },
   {
     id: 1,
-    title: 'Big Buck Bunny',
-    desc: 'A bunny learns to live in nature.',
-    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
-    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+    title: 'Elaphant\'s Dream',
+    desc: 'A deep dream of a far-away land.',
+    file: url.resolve(process.env.URL, '/videos/elephantsdream.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/elephantsdream.jpg')
   },
   {
     id: 2,
@@ -37,10 +37,10 @@ const movies = [
   },
   {
     id: 3,
-    title: 'Big Buck Bunny',
-    desc: 'A bunny learns to live in nature.',
-    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
-    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+    title: 'Elaphant\'s Dream',
+    desc: 'A deep dream of a far-away land.',
+    file: url.resolve(process.env.URL, '/videos/elephantsdream.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/elephantsdream.jpg')
   },
   {
     id: 4,
@@ -51,10 +51,10 @@ const movies = [
   },
   {
     id: 5,
-    title: 'Big Buck Bunny',
-    desc: 'A bunny learns to live in nature.',
-    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
-    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+    title: 'Elaphant\'s Dream',
+    desc: 'A deep dream of a far-away land.',
+    file: url.resolve(process.env.URL, '/videos/elephantsdream.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/elephantsdream.jpg')
   },
   {
     id: 6,
@@ -65,17 +65,10 @@ const movies = [
   },
   {
     id: 7,
-    title: 'Big Buck Bunny',
-    desc: 'A bunny learns to live in nature.',
-    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
-    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
-  },
-  {
-    id: 8,
-    title: 'Big Buck Bunny',
-    desc: 'A bunny learns to live in nature.',
-    file: url.resolve(process.env.URL, '/videos/bigbuckbunny.mp4'),
-    thumbnail: url.resolve(process.env.URL, '/thumbnails/bigbuckbunny.jpg')
+    title: 'Elaphant\'s Dream',
+    desc: 'A deep dream of a far-away land.',
+    file: url.resolve(process.env.URL, '/videos/elephantsdream.mp4'),
+    thumbnail: url.resolve(process.env.URL, '/thumbnails/elephantsdream.jpg')
   }
 ];
 
